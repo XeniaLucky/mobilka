@@ -1,5 +1,5 @@
 {
-    {
+   "arigato":[ {
       "name": "Dog Costume Contest",
       "description": "Dress up your dog in their most outrageous costume for a chance to win prizes! There will be categories for funniest, most creative, and best overall costume.",
       "date_time": "October 28, 2023 . 10:00 AM - 2:00 PM",
@@ -10,5 +10,5 @@
       "member4": "https://raw.githubusercontent.com/XeniaLucky/products-data/master/images/mem4.png",
       "admin_name": "Luna Cutipie",
       "admin": "https://raw.githubusercontent.com/XeniaLucky/products-data/master/images/admin.png"
-    }
+    }]
 }
